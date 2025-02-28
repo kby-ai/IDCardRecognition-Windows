@@ -42,6 +42,7 @@
   | 4        | [ID Auto Capture - React](https://github.com/kby-ai/ID-document-capture-React)    | Web Front-end |
   | ➡️        | <b>[ID Card Recognition - Windows](https://github.com/kby-ai/IDCardRecognition-Windows)</b>        | <b>Server-Windows</b> |
   | 6        | [ID Card Recognition - Linux](https://github.com/kby-ai/IDCardRecognition-Docker)        | Server-Linux |
+  | 7        | [ID Card Recognition - C#](https://github.com/kby-ai/IDCardRecognition-CSharp-.NET)        | Server-Windows |
 
 Please review our [document](https://docs.kby-ai.com/help/product/id-card-sdk) to learn more.</br>
 
